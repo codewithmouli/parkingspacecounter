@@ -73,5 +73,4 @@ parking-space-counter-opencv/
 - Log occupancy history over time to a CSV and plot utilization trends.
 - Add a simple web dashboard (Flask) to show live free-space count remotely.
 
-## License
-MIT
+
