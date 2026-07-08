@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+output/
+snapshots/
+*.log
+motion_log.csv
